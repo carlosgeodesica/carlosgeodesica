@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sobre Mí on Carlos Morales</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Sobre Mí on Carlos Morales</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Astrofotografía</title>
+      <link>http://localhost:1313/astrophotography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/astrophotography/</guid>
+      <description>&lt;h1 id=&#34;astrofotografía&#34;&gt;Astrofotografía&lt;/h1&gt;&#xA;&lt;h2 id=&#34;galería&#34;&gt;Galería&lt;/h2&gt;&#xA;&lt;h3 id=&#34;cielo-profundo&#34;&gt;Cielo Profundo&lt;/h3&gt;&#xA;&lt;p&gt;Aquí encontrarás mis fotografías de objetos de cielo profundo, incluyendo nebulosas, galaxias y cúmulos estelares. Cada imagen es el resultado de horas de exposición y cuidadoso procesamiento.&lt;/p&gt;&#xA;&lt;p&gt;[Galería de imágenes aquí]&lt;/p&gt;&#xA;&lt;h3 id=&#34;planetaria&#34;&gt;Planetaria&lt;/h3&gt;&#xA;&lt;p&gt;Fotografías de planetas de nuestro sistema solar, incluyendo detalles atmosféricos de Júpiter y los anillos de Saturno.&lt;/p&gt;&#xA;&lt;p&gt;[Galería de imágenes aquí]&lt;/p&gt;&#xA;&lt;h3 id=&#34;time-lapse&#34;&gt;Time-Lapse&lt;/h3&gt;&#xA;&lt;p&gt;Series temporales que muestran el movimiento aparente del cielo nocturno y fenómenos astronómicos.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Investigación</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;h2 id=&#34;publicaciones&#34;&gt;Publicaciones&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Inclusive Eclipse: A sensorial experiencing along Chile&lt;/strong&gt; (2021)&#xA;P. Troncoso-Iribarren, C. Santander, J. Díaz, H. López, E. Labbé, I. Schacht, C. Piña, C.A.L. Morales Marín, H. Drass, A. Barr Domínguez&#xA;&lt;em&gt;Proceedings of the International Astronomical Union, 15(S367), 302-305.&lt;/em&gt;&#xA;&lt;a href=&#34;https://doi:10.1017/S1743921321000946&#34;&gt;DOI: 10.1017/S1743921321000946&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Solving the distance discrepancy for the open cluster NGC 2453&lt;/strong&gt; (2019)&#xA;D.González-Díaz, C.Moni Bidin, E.Silva-Villa, G.Carraro, D.Majaess, A.Moitinho, C.Orquera-Rojas, C.A.L. Morales Marín, E.Morales-Campaña&#xA;&lt;em&gt;Astronomy &amp;amp; Astrophysics, Vol 626, A10, 8.&lt;/em&gt;&#xA;&lt;a href=&#34;https://doi.org/10.1051/0004-6361/201935243&#34;&gt;DOI: 10.1051/0004-6361/201935243&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
