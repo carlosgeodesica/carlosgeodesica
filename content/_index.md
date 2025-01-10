@@ -1,6 +1,6 @@
 # Carlos Morales Marín
 
-Soy un astrónomo chileno especializado en interferometría del infrarojo cercano. Actualmente trabajo como especialista en observaciones en el **Observatorio Rubin**, donde opero y realizo pruebas del telescopio Simonyi con la cámara más grande del mundo, durante el ultimo año me he dedicado contribuir en la puesta en marcha del proyecto LSST (Legacy Survey of Space and Time).
+Soy un astrónomo chileno especializado en interferometría del infrarojo cercano. Actualmente trabajo como especialista en observaciones en el **Observatorio Vera C. Rubin**, donde opero y realizo pruebas del telescopio Simonyi con la cámara más grande del mundo, durante el ultimo año me he dedicado contribuir en la puesta en marcha del proyecto LSST (Legacy Survey of Space and Time).
 
 ### Experiencia Profesional
 
