@@ -1,48 +1,48 @@
 # Carlos Morales Marín
 
-Soy un astrónomo chileno especializado en interferometría del infrarojo cercano. Actualmente trabajo como especialista en observaciones en el **Observatorio Rubin**, donde opero y realizo pruebas del telescopio Simonyi con la cámara más grande del mundo, durante el ultimo año me he dedicado contribuir en la puesta en marcha del proyecto LSST (Legacy Survey of Space and Time).
+I am a Chilean astronomer specialized in near-infrared interferometry. I currently work as an observation specialist at the **Rubin Observatory**, where I operate and test the Simonyi telescope with the largest camera in the world. During the last year I have been contributing to the commissioning of the LSST (Legacy Survey of Space and Time) project.
 
-### Experiencia Profesional
+### Professional Experience
 
-#### Vera C. Rubin Observatory (2023 - Presente)
+#### Vera C. Rubin Observatory (2023 - Present)
 - **Observing Specialist**
-  - Operación del telescopio Simonyi y la cámara LSST.
-  - Desarrollador de software para resolución de problemas y mejora de procedimientos con inteligencia artificial.
-  - Generación de reportes nocturnos y recolección de datos.
+- Operation of the Simonyi telescope and the LSST camera.
+- Software developer for troubleshooting and improving procedures with artificial intelligence.
+- Generation of night reports and data collection.
 
-#### Cooperativa Geodésica (2019-Presente)
-- **Gerente General**
-  - Desarrollo de soluciones astronómicas para la industria turística y educativa.
-  - Venta de equipos astronómicos y diseño observatorios astronómicos.
-  - Implementación de sistemas de inteligencia artificial.
+#### Cooperativa Geodésica (2019-Present)
+- **General Manager**
+- Development of astronomical solutions for the tourism and educational industry.
+- Sale of astronomical equipment and design of astronomical observatories.
+- Implementation of artificial intelligence systems.
 
 #### Corporación Desarrollo Araucanía (2020-2023)
-- **Ejecutivo de Proyectos**
-  - Investigación de sitios óptimos para observaciones astronómicas en la región de la Araucanía con fines turísticos.
-  - Caracterización atmosférica y medición de contaminación lumínica.
-  - Capacitación en turismo astronómico y astronomía básica para empresarios locales.
+- **Project Executive**
+- Research of optimal sites for astronomical observations in the Araucanía region for tourism purposes.
+- Atmospheric characterization and measurement of light pollution.
+- Training in astronomical tourism and basic astronomy for local entrepreneurs.
 
-### Habilidades Técnicas
+### Technical Skills
 
-- **Programación**: Python, DSPy, Langchain, C, Bash, SQL, LaTeX.
+- **Programming**: Python, DSPy, Langchain, C, Bash, SQL, LaTeX.
 - **Software**: VSCode, PixInsight, N.I.N.A., Obsidian, Ollama.
-- **Instrumentación**: Telescopios, Cámaras CCD, Filtros, Monturas, Domos.
-- **Inteligencia Artificial**: Modelos de Lenguaje, Modelos de Difusión, Clasificación de Imágenes.
-- **Plataformas**: Jira, Confluence, Slack.
-- **Sistemas Operativos**: Mac, ArchLinux, Debian, Windows.
-- **Tecnicas Observacionales**: Interferometría, Fotometría, Espectroscopía, Astrometría.
+- **Instrumentation**: Telescopes, CCD cameras, Filters, Mounts, Domes.
+- **Artificial Intelligence**: Language Models, Diffusion Models, Image Classification.
+- **Platforms**: Jira, Confluence, Slack.
+- **Operating Systems**: Mac, ArchLinux, Debian, Windows.
+- **Observational Techniques**: Interferometry, Photometry, Spectroscopy, Astrometry.
 
-### Idiomas
-- Español (nativo)
-- Inglés (fluido)
+### Languages
+- Spanish (native)
+- English (fluent)
 
-### Instrumentos Musicales
-- Bajo
-- Guitarra
-- Batería
+### Musical Instruments
+- Bass
+- Guitar
+- Drums
 
-### Deportes
-- Escalada deportiva
+### Sports
+- Sport Climbing
 - Slack Line
 - Trekking
 - Yoga
