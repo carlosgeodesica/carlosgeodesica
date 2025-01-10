@@ -6,21 +6,21 @@ I am a Chilean astronomer specialized in near-infrared interferometry. I current
 
 #### Vera C. Rubin Observatory (2023 - Present)
 - **Observing Specialist**
- - Operation of the Simonyi telescope and the LSST camera.
- - Software developer for troubleshooting and improving procedures with artificial intelligence.
- - Generation of night reports and data collection.
+  - Operation of the Simonyi telescope and the LSST camera.
+  - Software developer for troubleshooting and improving procedures with artificial intelligence.
+  - Generation of night reports and data collection.
 
 #### Cooperativa Geodésica (2019-Present)
 - **General Manager**
- - Development of astronomical solutions for the tourism and educational industry.
- - Sale of astronomical equipment and design of astronomical observatories.
- - Implementation of artificial intelligence systems.
+  - Development of astronomical solutions for the tourism and educational industry.
+  - Sale of astronomical equipment and design of astronomical observatories.
+  - Implementation of artificial intelligence systems.
 
 #### Corporación Desarrollo Araucanía (2020-2023)
 - **Project Executive**
- - Research of optimal sites for astronomical observations in the Araucanía region for tourism purposes.
- - Atmospheric characterization and measurement of light pollution.
- - Training in astronomical tourism and basic astronomy for local entrepreneurs.
+  - Research of optimal sites for astronomical observations in the Araucanía region for tourism purposes.
+  - Atmospheric characterization and measurement of light pollution.
+  - Training in astronomical tourism and basic astronomy for local entrepreneurs.
 
 ### Technical Skills
 
