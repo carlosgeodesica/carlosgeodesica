@@ -1,6 +1,6 @@
 ---
 title: "Investigación"
-description: "Publicaciones y Proyectos de Investigación"
+description: "Publicaciones Científicas y Proyectos de Investigación"
 ---
 
 ## Publicaciones
@@ -19,30 +19,3 @@ description: "Publicaciones y Proyectos de Investigación"
    K.Ohnaka, C.A.L. Morales Marín
    *Astronomy & Astrophysics, Vol 620, A23, 10.*
    [DOI: 10.1051/0004-6361/201833745](https://doi.org/10.1051/0004-6361/201833745)
-
-## Proyectos Actuales
-
-### Vera C. Rubin Observatory
-Como Observing Specialist, participo en el ambicioso proyecto de mapeo del cielo de 10 años, operando tanto el telescopio principal Simonyi Survey como el Telescopio Auxiliar de 1.2m. Mi trabajo incluye:
-- Monitoreo y optimización del rendimiento del telescopio
-- Desarrollo de scripts para resolución de problemas
-- Recolección y análisis de datos de calibración
-
-### Fotometría y Observación Variable
-Como miembro de la American Association of Variable Star Observers (AAVSO), realizo:
-- Fotometría de apertura
-- Observaciones de estrellas variables
-- Fotometría de exoplanetas
-- Espectroscopía con red de difracción
-
-## Experiencia Técnica
-
-### Computación de Alto Rendimiento
-- Experiencia en clusters de computación con Scientific Linux 7
-- Implementación de software de computación paralela (Open MPI)
-- Desarrollo de software para reducción de datos astronómicos
-
-### Instrumentación
-- Desarrollo de sensores para monitoreo atmosférico
-- Implementación de sistemas de medición de seeing y extinción atmosférica
-- Diseño de soluciones para telescopios y observación astronómica
