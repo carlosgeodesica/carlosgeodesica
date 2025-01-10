@@ -111,10 +111,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: astrofotografia
-      name: Astrofotografía
-      url: /astrofotografia/
-      weight: 10
+#    - identifier: astrofotografia
+#      name: Astrofotografía
+#      url: /astrofotografia/
+#      weight: 10
     - identifier: Investigación
       name: Investigación
       url: /research/
