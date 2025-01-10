@@ -133,3 +133,20 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+        enable: true
+params:
+  math: true
