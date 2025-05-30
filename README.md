@@ -16,20 +16,14 @@ I am a Chilean astronomer specialized in near-infrared interferometry. I current
   - Sale of astronomical equipment and design of astronomical observatories.
   - Implementation of artificial intelligence systems.
 
-#### Corporación Desarrollo Araucanía (2020-2023)
-- **Project Executive**
-  - Research of optimal sites for astronomical observations in the Araucanía region for tourism purposes.
-  - Atmospheric characterization and measurement of light pollution.
-  - Training in astronomical tourism and basic astronomy for local entrepreneurs.
-
 ### Technical Skills
 
-- **Programming**: Python, DSPy, Langchain, C, Bash, SQL, LaTeX.
-- **Software**: VSCode, PixInsight, N.I.N.A., Obsidian, Ollama.
+- **Programming**: Python, DSPy, Bash, SQL, LaTeX.
+- **Software**: VSCode, PixInsight, N.I.N.A., Obsidian, Ollama, OpenWebUI, MainStage.
 - **Instrumentation**: Telescopes, CCD cameras, Filters, Mounts, Domes.
 - **Artificial Intelligence**: Language Models, Diffusion Models, Image Classification.
-- **Platforms**: Jira, Confluence, Slack.
-- **Operating Systems**: Mac, ArchLinux, Debian, Windows.
+- **Platforms**: Jira, Confluence, Zepyre.
+- **Operating Systems**: Mac, ArchLinux, Debian, AlmaLinux, Windows.
 - **Observational Techniques**: Interferometry, Photometry, Spectroscopy, Astrometry.
 
 ### Languages
@@ -42,7 +36,7 @@ I am a Chilean astronomer specialized in near-infrared interferometry. I current
 - Drums
 
 ### Sports
-- Sport Climbing
+- Climbing
 - Slack Line
 - Trekking
 - Yoga
