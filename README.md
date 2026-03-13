@@ -36,8 +36,8 @@ Instrumentation: Telescopes, CCD cameras, Filters, Mounts, Domes
 Operating Systems: ArchLinux, Debian, AlmaLinux, NixOS, MacOS, Windows
 
 🌐 Languages
-Spanish: Native
 
+Spanish: Native
 English: Fluent
 
 🧗 Outside the Observatory
